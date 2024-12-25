@@ -21,3 +21,4 @@ Displaying the calculated result in a clear and concise format.
 
 Technologies Used
 Programming Language: Python
+![task1image](https://github.com/user-attachments/assets/8d4410e2-5410-4ecf-8fb1-757b26c1c16f)
